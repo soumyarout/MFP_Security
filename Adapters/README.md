@@ -3,8 +3,6 @@ IBM MobileFirst Platform Foundation
 ### SecurityAdapters
 A Maven project containing multiple Java and JavaScript adapters, used in tutorials and authentication-related sample applications.
 
-### Tutorials
-https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/authentication-and-security/
 
 ### Usage
 
